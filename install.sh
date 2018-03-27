@@ -1,3 +1,4 @@
+#! /bin/bash
 # generate buildout reads buildout.cfg
 virtualenv venv
 source venv/bin/activate
