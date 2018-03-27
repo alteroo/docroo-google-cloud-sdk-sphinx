@@ -1,5 +1,5 @@
 # docroo-google-cloud-sdk-sphinx
-docker image with sphinx, sphinx_rtd_theme and google-cloud-sdk
+Docker image with sphinx, sphinx_rtd_theme and google-cloud-sdk
 Used in a Gitlab Pipeline for Deploying private Sphinx based documentation to Google App Engine
 Based on the Docroo project
 
